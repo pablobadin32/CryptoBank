@@ -96,3 +96,9 @@ and should be restricted to an authorized role
 (owner or internal access) to prevent unauthorized balance manipulation.
 
 ---
+## Disclaimer
+
+This project was developed as part of the Blockchain Accelerator Program.
+It is an educational exercise intended to demonstrate Solidity fundamentals
+and smart contract development concepts.
+
